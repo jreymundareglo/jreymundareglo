@@ -1,6 +1,8 @@
 <h1 align='center'>Hello there!👋</h1>
 
-![Coding Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRjODN2aXNnaTQ0Z2xpc3VlYm96dzd5OTh1dDF5aGFnNXJicmllMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img alt="coding_cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRjODN2aXNnaTQ0Z2xpc3VlYm96dzd5OTh1dDF5aGFnNXJicmllMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+</p>
 
 # Tech Stack
 <!--
