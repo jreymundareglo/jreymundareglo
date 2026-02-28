@@ -8,10 +8,10 @@
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-vite-9135FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
